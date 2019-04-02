@@ -11,13 +11,15 @@ Command
 
 -$ pkg install unzip
 
--$ git clone https://github.com/VanGanteng/Report.git
+-$ git clone https://github.com/VanGanteng/Report
 
--$ cd
+-$ cd Report
 
 -$ ls
 
 -$ unzip report.zip
+
+-$ ls
 
 -$ python2 report.py
 
